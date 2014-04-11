@@ -1,0 +1,6 @@
+Added compiled LIME kernel modules for the below
+Use 'uname -r' to get the kernel version.
+
+2.6.32-358.el6.x86_64
+2.6.32-431.el6.x86_64
+3.11.0-12-generic
